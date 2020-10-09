@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
-  "version": "3.9.3",
-  "description": "The official app for Moodle.",
+  "version": "3.9.2",
+  "description": "JGH Moodle App",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Johanneum Gymnasium Herborn",
+    "email": "poststelle@johanneum-herborn.de"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
